@@ -20,3 +20,4 @@ Entradas: 4 switches (SW[3:0])
 Salidas: LED
 ![20260213_085314](https://github.com/user-attachments/assets/f855788c-d732-435f-a304-8578444a0c25)
 ![20260213_085320](https://github.com/user-attachments/assets/95a4ff43-3bc2-4284-af35-1ae6597fcd47)
+<img width="1920" height="1140" alt="Captura de pantalla 2026-02-13 090314" src="https://github.com/user-attachments/assets/913c7b84-ff7e-4f69-9025-53610a70a849" />
